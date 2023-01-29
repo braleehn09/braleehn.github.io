@@ -1,6 +1,6 @@
 Portafolio John Brandon 
 
-![image](https://user-images.githubusercontent.com/123897455/215354811-18ed6915-676e-4d43-a000-4fa613d7bef7.png)
+![image](https://user-images.githubusercontent.com/123897455/215356814-fbbf3a22-c786-4474-bbd0-8df21dc08fc8.png)
 
 Este es un portafolio sencillo creado con HTML, CSS y JavaScript. Utiliza la librería Bootstrap para el diseño responsivo y estilos básicos. La fuente utilizada es Cascadia Code para el contenido y una font específica para los títulos.
 
